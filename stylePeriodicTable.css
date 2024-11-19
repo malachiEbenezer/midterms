@@ -1,0 +1,70 @@
+body{
+	background-color: #343231;
+	display: absolute;
+	zoom: 0.85;
+}
+a{
+	color: lemonchiffon;
+}
+#headTitle{
+	color: #FAF9F6;
+	text-align: center;
+}
+.exElement{
+	text-align: center;
+	background-color: limegreen;
+	margin: 0 auto;
+	width: 100px;
+}
+#catDescript{
+	color: #faf9f6;
+	text-align: center;
+}
+.categories{
+	text-align: left;
+	color: #faf9f6;
+	padding-right: 10px;
+	padding-bottom: 15px;
+}
+#descript{
+	margin: 0 auto;
+}
+.elDescript{
+	border-right: 15px solid #343231;
+	border-bottom: 7px solid #343231;
+}
+.catColor{
+	width: 30px;
+	border-right: 5px solid #343231;
+}
+.Alkali{background-color:lightcoral;}
+.Alkaline{background-color: orange;}
+.tranMetal{background-color: lightskyblue;}
+.Lanthanides{background-color: cornflowerblue;}
+.Actinides{background-color: aquamarine;}
+.postTranMetal{background-color: plum;}
+.Metalloids{background-image: linear-gradient(to bottom, orange, gray);}
+.RNM{background-color: limegreen;}
+.nobGas{background-color: pink;}
+.unknown{background-image: linear-gradient(to bottom, gray, white);}
+.elNum{padding-top: 7px;}
+.elElect{padding-bottom: 7px;}
+#elTable{
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	max-height: 100vh;
+}
+td, tr{
+	width: 90px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid #343231;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.rowOne, .rowTwo, .rowThree, .rowFour, .rowFive,
+.rowSix, .rowSeven, .rowEight, .rowNine{
+	text-align: center;
+	margin: 0 auto;
+}
